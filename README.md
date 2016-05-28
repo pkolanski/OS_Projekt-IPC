@@ -1,1 +1,2 @@
-# OS_Projekt-IPC
+# IS 2016 Systemy Operacyjne
+# Projekt-IPC
