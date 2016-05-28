@@ -54,7 +54,7 @@ int main()
 				dup2(fd2[0], 0);
 				close(fd2[1]);
 				scanf("%d", &godzina);
-				if (godzina < 17;
+				if (godzina < 17)
 				{
 					printf("Nie ma weekendu\n");
 					return 0;
